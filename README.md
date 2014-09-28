@@ -7,3 +7,5 @@
 
 2. integrals.cpp 利用mpi.h对y=x^2在[0,10]上进行积分.
 方法: 各个进程算各自小长方形的面积，然后将所有进程的累加和送到0号进程。
+
+3. shellscripts里面是些简单的shell脚本.如cpuInfo1.sh为每隔5s获取hadoop各节点cpu,进程等所有信息.
