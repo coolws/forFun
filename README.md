@@ -11,3 +11,5 @@
 3. finaCar.cpp 2014年研究生数模E题
 
 4. shellscripts里面是些简单的shell脚本.如cpuInfo1.sh为每隔5s获取hadoop各节点cpu,进程等所有信息.
+
+5. cImpleClass.c 使用C语言实现c++类中的继承，重载，构造函数等
