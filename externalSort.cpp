@@ -9,6 +9,7 @@
 #include <string>
 using std::string;
 
+
 typedef boost::function<void(const string& query, int64_t count)> Callback;
 
 const size_t kMaxSize = 10 * 1000 * 1000;
