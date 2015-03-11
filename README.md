@@ -13,3 +13,5 @@
 4. shellscripts里面是些简单的shell脚本.如cpuInfo1.sh为每隔5s获取hadoop各节点cpu,进程等所有信息.
 
 5. cImpleClass.c 使用C语言实现c++类中的继承，重载，构造函数等
+
+6. externalSort.cpp利用boost库和部分c11特性进行外排，按照所有文件query的频度排序值output.txt中
